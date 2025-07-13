@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08-kaagaz-templates/_index.md",
-                "mode": "preview",
+                "file": "01-setup-guides/Goog.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "Goog"
             }
           }
         ]
@@ -197,6 +197,8 @@
   },
   "active": "0d77d395be4a2c5d",
   "lastOpenFiles": [
+    "08-kaagaz-templates/_index.md",
+    "01-setup-guides/Goog.md",
     "README.md",
     "Untitled.canvas",
     "movie link.md",
@@ -232,8 +234,6 @@
     "likh.mitr/05-manthan/_index.md",
     "likh.mitr/04-karya-suchi/_index.md",
     "likh.mitr/03-gyan-patra/_index.md",
-    "likh.mitr/02-maker-space/_index.md",
-    "likh.mitr/01-inner-voice/_index.md",
-    "likh.mitr/README.md"
+    "likh.mitr/02-maker-space/_index.md"
   ]
 }

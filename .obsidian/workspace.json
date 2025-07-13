@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "809dac14587b7e5b",
+        "id": "af4c5f5fb9beb810",
         "type": "tabs",
         "children": [
           {
-            "id": "0d77d395be4a2c5d",
+            "id": "aace047142aabfd5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-setup-guides/Pixelify GPhotos for spoofing Google Photos.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Pixelify GPhotos for spoofing Google Photos"
+              "title": "New tab"
             }
           }
         ]
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "likh.mitr/01-inner-voice/_index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of _index"
+              "title": "Outline"
             }
           },
           {
@@ -157,8 +152,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -176,12 +171,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 322.5,
-    "collapsed": true
+    "width": 322.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,10 +189,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0d77d395be4a2c5d",
+  "active": "aace047142aabfd5",
   "lastOpenFiles": [
-    "01-setup-guides/Untitled.md",
     "01-setup-guides/Pixelify GPhotos for spoofing Google Photos.md",
+    "01-setup-guides/Untitled.md",
     "08-kaagaz-templates/_index.md",
     "README.md",
     "Untitled.canvas",
